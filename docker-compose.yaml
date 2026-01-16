@@ -13,4 +13,4 @@ services:
       - OWNCAST_HTTP_PORT=8081
       - OWNCAST_RTMP_PORT=1935
       - OWNCAST_SITE_TITLE=My Live Stream
-      - OWNCAST_BASE_URL=https://yourdomain.com
+      - OWNCAST_BASE_URL=https://onwcastserver.apps.livelesson.name.ng
